@@ -1,1 +1,1 @@
-var app = angular.module('ContactsExplorer',['ngRoute']);
+var app = angular.module('ContactsExplorer', ['ngRoute']);
