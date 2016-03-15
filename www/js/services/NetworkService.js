@@ -5,11 +5,11 @@ angular.module('ContactsExplorer')
         var factory = {
             hasToken: false,
             token: null,
-            client_id: '3MVG9ZL0ppGP5UrArCNBgKTk3esLlhzhSwoAS7c28LcS0Sr0nt9xsiP1SkEleQHvH71aA8e_buRvcNe0d4toM',
-            client_secret: '787476313952282944',
-            uname: 'yashwanth.gondi@kony.com',
-            pswd: '1234abcd',
-            security_token: 'kVLiks2mLNfnsLKrjx0MDl1E'
+            client_id: 'YOUR_CLIENT_ID',
+            client_secret: 'YOUR_CLIENT_SECRET',
+            uname: 'YOUR_USERNAME',
+            pswd: 'YOUR_PASSWORD',
+            security_token: 'YOUR_SEC_TOKEN'
         };
 
         //fetches the access_token for that session
